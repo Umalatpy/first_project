@@ -28,3 +28,4 @@ print(len(allFlips))
 
 # for index in allFlips[:]:
 print('Chance of streak: %s%%' % (allFlips / 100000))
+#  some change in this file made in Github.com
